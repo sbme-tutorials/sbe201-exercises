@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 # \[SBE201\] Exercises
 
 ## Overview
